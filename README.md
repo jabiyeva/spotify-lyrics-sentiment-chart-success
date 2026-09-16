@@ -1,6 +1,6 @@
 # 🎵 What Makes a Hit Stick? Lyrics vs. Chart Longevity
 
-Projekt-Status: ✅ Completed
+Project-Status: ✅ Completed
 
 ## 📌 The Question
 
